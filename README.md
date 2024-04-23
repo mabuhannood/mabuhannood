@@ -1,8 +1,7 @@
 <h1 align="left">Hi, I'm Mohammad AbuHannood</h1>
 
-<div style="text-align: center;" alt="data" style="max-height: 200px;">
-![MasterHead](https://github.com/mabuhannood/mabuhannood/assets/167832668/998dce7e-6904-40c3-8b7f-7a4922d179a7)
-</div>
+
+  <img src="https://github.com/mabuhannood/mabuhannood/assets/167832668/998dce7e-6904-40c3-8b7f-7a4922d179a7" alt="data" style="max-height: 200px;">
 
 <h2 align="left">BI | Data Analyst | Data Scientist</h2>
 
