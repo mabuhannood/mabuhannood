@@ -2,7 +2,7 @@
 
 
 <div>
-  <p><img src="https://github.com/mabuhannood/mabuhannood/assets/167832668/998dce7e-6904-40c3-8b7f-7a4922d179a7" alt="data"  max-height: 200px;"></p>
+  <p><img  align="center" src="https://github.com/mabuhannood/mabuhannood/assets/167832668/998dce7e-6904-40c3-8b7f-7a4922d179a7" alt="data"  max-height: 200px;"></p>
 </div>
 
 <h2 align="left">BI | Data Analyst | Data Scientist</h2>
