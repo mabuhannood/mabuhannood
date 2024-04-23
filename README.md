@@ -1,4 +1,5 @@
-![MasterHead](Data Analyst Animation.gif)
+![Data Analyst Animation](https://github.com/mabuhannood/mabuhannood/assets/167832668/bbb52779-0d09-453d-ba32-fe738bf0cac3)
+
 <h1 align="center">Hi, I'm Mohammad AbuHannood</h1>
 <h3 align="center">BI | Data Analyst | Data Scientist</h3>
 
