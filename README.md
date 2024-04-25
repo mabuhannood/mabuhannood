@@ -79,4 +79,3 @@ Certified Data Analyst with extensive experience in Business Intelligence, SQL, 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mabuhannood/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mabuhannood/" height="30" width="40" /></a>
 </p>
-![image](https://github.com/mabuhannood/mabuhannood/assets/167832668/0f0cbee3-d655-4cf9-bc96-3d7ad31e9e69)
