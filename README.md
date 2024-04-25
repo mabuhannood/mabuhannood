@@ -6,7 +6,7 @@
 </div>
 
 
-<h2 align="center">BI | Data Analyst | Data Scientist</h2>
+<h2 align="left">BI | Data Analyst | Data Scientist</h2>
 
 Certified Data Analyst with extensive experience in Business Intelligence, SQL, Python and Power BI for comprehensive data analysis and real-time reporting, leveraging machine learning and deep learning techniques for impactful solutions. Proficient in developing scalable web and mobile applications.
 
