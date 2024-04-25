@@ -1,27 +1,18 @@
-<style>
-  .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
-</head>
-<body>
-
-
 <h1 align="left">Hi, I'm Mohammad AbuHannood</h1>
 
-<div class="center">
-  <p><img src="https://github.com/mabuhannood/mabuhannood/assets/167832668/b6dd9f1f-ef68-42fa-b72c-744d1e811579" alt="data" style="max-height: 200px;"></p>
+
+<div>
+  <p><img  align="center" src="https://github.com/mabuhannood/mabuhannood/assets/167832668/b6dd9f1f-ef68-42fa-b72c-744d1e811579" alt="data"  max-height: 200px;"></p>
 </div>
+
 
 <h2 align="left">BI | Data Analyst | Data Scientist</h2>
 
-<p>Certified Data Analyst with extensive experience in Business Intelligence, SQL, Python and Power BI for comprehensive data analysis and real-time reporting, leveraging machine learning and deep learning techniques for impactful solutions. Proficient in developing scalable web and mobile applications.</p>
+Certified Data Analyst with extensive experience in Business Intelligence, SQL, Python and Power BI for comprehensive data analysis and real-time reporting, leveraging machine learning and deep learning techniques for impactful solutions. Proficient in developing scalable web and mobile applications.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -86,9 +77,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mabuhannood/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mabuhannood/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mabuhannood/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mabuhannood/" height="30" width="40" /></a>
 </p>
-
-</body>
-</html>
-
+![image](https://github.com/mabuhannood/mabuhannood/assets/167832668/0f0cbee3-d655-4cf9-bc96-3d7ad31e9e69)
