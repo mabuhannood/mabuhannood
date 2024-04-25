@@ -2,7 +2,7 @@
 
 
 <div>
-  <p><img  align="center" src="https://github.com/mabuhannood/mabuhannood/assets/167832668/88389a28-73b6-48f8-96b1-98f8175cfad3" alt="data"  max-height: 200px;"></p>
+  <p><img  align="center" src="https://github.com/mabuhannood/mabuhannood/assets/167832668/88389a28-73b6-48f8-96b1-98f8175cfad3" alt="data";"></p>
 </div>
 
 
