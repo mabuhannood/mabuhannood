@@ -21,7 +21,7 @@ Certified Data Analyst with extensive experience in Business Intelligence, SQL, 
   <img src="https://img.shields.io/badge/spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="spark">
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
   <img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN">
-   	  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=mazure&logoColor=white" alt="azure">
+   	  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure">
 </p>
 
 <h3 align="left">Connect with me:</h3>
