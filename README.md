@@ -6,7 +6,7 @@
 </div>
 
 
-<h2 align="left">AI | Data Scientist | Data Analyst | Business intelligence</h2>
+<h2 align="left">Data Scientist | Data Analyst | Business intelligence</h2>
 
 AI/ML Engineer with extensive experience in Business Intelligence, SQL, Python and Power BI for comprehensive data analysis and real-time reporting, leveraging machine learning and deep learning techniques for impactful solutions. Proficient in developing scalable web and mobile applications.
 
