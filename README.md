@@ -8,7 +8,7 @@
 
 <h2 align="left">Data Scientist | Data Analyst </h2>
 
-AI/ML Engineer with extensive experience in Business Intelligence, SQL, Python and Power BI for comprehensive data analysis and real-time reporting, leveraging machine learning and deep learning techniques for impactful solutions. Proficient in developing scalable web and mobile applications.
+Data Scientist with a strong background in Data Analysis, Business Intelligence, SQL, Python, and Power BI. Experienced at transforming data into actionable insights and driving success through data-driven strategies. Skilled in leveraging machine learning and deep learning techniques to create impactful solutions that support analytics and decision-making. Proficient in developing robust, scalable web and mobile applications.
 
 
 <h3 align="left">Languages and Tools:</h3>
