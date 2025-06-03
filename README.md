@@ -21,7 +21,7 @@ Data Engineer with a strong background in Data Analysis, Business Intelligence, 
    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"  alt="Databricks">
     <img src="https://img.shields.io/badge/Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16 " alt="spark">
     <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+<!--     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"> -->
   <img src="https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN">
 </p>
 
