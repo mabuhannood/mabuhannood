@@ -19,7 +19,7 @@ Data Engineer with a strong background in Data Analysis, Business Intelligence, 
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure">
    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"  alt="Databricks">
     <img src="https://img.shields.io/badge/spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="spark">
-    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16 " alt="spark">
+    <img src="https://img.shields.io/badge/Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16 " alt="spark">
     <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
   <img src="https://img.shields.io/badge/Fabric-802EC7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric">
