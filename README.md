@@ -8,7 +8,7 @@
 
 <h2 align="left">Data Engineer | Data Analyst | Data Scientist</h2>
 
-Data Scientist with a strong background in Data Engineering, Data Analysis, Business Intelligence, SQL, Python, and Power BI. Experienced at transforming data into actionable insights and driving success through data-driven strategies. Skilled in leveraging machine learning and deep learning techniques to create impactful solutions that support analytics and decision-making.
+Data Engineer with a strong background in Data Analysis, Business Intelligence, SQL, Python, and Power BI. Experienced at transforming data into actionable insights and driving success through data-driven strategies. Skilled in leveraging machine learning and deep learning techniques to create impactful solutions that support analytics and decision-making.
 
 
 <h3 align="left">Languages and Tools:</h3>
